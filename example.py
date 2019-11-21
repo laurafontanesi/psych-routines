@@ -77,18 +77,24 @@ for t in range(n_trials):
     changing_gamble.text = 'a sure gain of  CHF %s' % rewards[t]
 
     # first event
-    trial_routine.wait_for_time_limit(components=[fixation_cross], time_seconds=fixation_duration, label='fixation_cross')
+    trial_routine.wait_for_time_limit(
+        components=[fixation_cross], 
+        time_seconds=fixation_duration, 
+        label='fixation_cross')
 
     # second event
-    key, rt = trial_routine.wait_for_keys_or_time_limit(components=[fixed_gamble, changing_gamble], valid_keys=choice_keys, time_seconds=choice_time_limit, label='gamble_choice')
+    key, rt = trial_routine.wait_for_keys_or_time_limit(
+        components=[fixed_gamble, changing_gamble], 
+        valid_keys=choice_keys, 
+        time_seconds=choice_time_limit, 
+        label='gamble_choice')
     data = data.append({'rt':rt, 'choice': key, 'trial': t, 'reward': rewards[t]}, ignore_index=True) # record the responses
 
     #save data to file
     for label in expInfo.keys():
         data[label] = expInfo[label]
-    
     data.to_csv(fileName + '.csv')
-
+    
 #cleanup
 mywin.close()
 core.quit()
