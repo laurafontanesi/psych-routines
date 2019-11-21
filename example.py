@@ -23,6 +23,7 @@ fixation_duration = 1
 
 #stimuli settings
 text_color = 'black'
+options_x_offset = 200
 
 #store info about the experiment session
 dlg = gui.Dlg(title=expName)
@@ -57,8 +58,8 @@ logging.console.setLevel(logging.WARNING)  # this outputs to the screen, not a f
 mywin = Window(screen_size, units='pix', color=background_color, fullscr=full_screen)
 
 #create some stimuli
-fixed_gamble = TextStim(win=mywin, text='50% chance of winning CHF 600', color=text_color, pos=(-200, 0))
-changing_gamble = TextStim(win=mywin, color=text_color, pos=(200, 0))
+fixed_gamble = TextStim(win=mywin, text='50% chance of winning CHF 600', color=text_color, pos=(-options_x_offset, 0))
+changing_gamble = TextStim(win=mywin, color=text_color, pos=(options_x_offset, 0))
 
 fixation_cross = TextStim(win=mywin, text='+', color=text_color)
 
