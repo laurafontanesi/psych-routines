@@ -21,7 +21,7 @@ class Routine(object):
         event.clearEvents() # clear event cache
         self.window.logOnFlip(level=logging.EXP, msg='%s onset' % label) # log onset stimuli
         self.window.callOnFlip(self.timer.reset)
-        
+
         for frameN in range(n_frames):
             for comp in components:
                 comp.draw()
@@ -33,8 +33,8 @@ class Routine(object):
                 core.quit()
 
         self.window.logOnFlip(level=logging.EXP, msg='%s offset' % label) # log offset stimuli
-        return (self.timer.reset + time_seconds)
- 
+        return (time_seconds)
+
     def wait_for_keys(self, components, valid_keys, label):
         event.clearEvents() # clear event cache
         self.window.logOnFlip(level=logging.EXP, msg='%s onset' % label) # log onset stimuli
