@@ -33,7 +33,7 @@ class Routine(object):
                 core.quit()
 
         self.window.logOnFlip(level=logging.EXP, msg='%s offset' % label) # log offset stimuli
-        return (time_seconds)
+        return time_seconds
 
     def wait_for_keys(self, components, valid_keys, label):
         event.clearEvents() # clear event cache
@@ -82,10 +82,10 @@ class Routine(object):
                     break
 
         self.window.logOnFlip(level=logging.EXP, msg='%s offset' % label) # log offset stimuli
-        if len(pressed_keys)>0: 
+        if len(pressed_keys)>0:
              return key, rt
         else:
-             return np.nan, self.timer.getTime()
+             return np.nan, time_seconds
 
     def wait_for_time_limit_first_key(self, components, valid_keys, time_seconds, label):
         n_frames = self.frames_per_second*time_seconds # define number of frames
@@ -108,7 +108,7 @@ class Routine(object):
                     core.quit()
 
         self.window.logOnFlip(level=logging.EXP, msg='%s offset' % label) # log offset stimuli
-        if len(pressed_keys)>0: 
+        if len(pressed_keys)>0:
              return key, rt
         else:
-             return np.nan, self.timer.getTime()
+             return np.nan, time_seconds
