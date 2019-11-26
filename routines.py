@@ -17,7 +17,7 @@ class Routine(object):
         self.timer = core.Clock()
 
     def wait_for_time_limit(self, components, time_seconds, label):
-        n_frames = self.frames_per_second*time_seconds # define number of frames
+        n_frames = int(np.round(self.frames_per_second*time_seconds)) # define number of frames
         event.clearEvents() # clear event cache
         self.window.logOnFlip(level=logging.EXP, msg='%s onset' % label) # log onset stimuli
         self.window.callOnFlip(self.timer.reset)
@@ -60,7 +60,7 @@ class Routine(object):
         return key, rt
 
     def wait_for_keys_or_time_limit(self, components, valid_keys, time_seconds, label):
-        n_frames = self.frames_per_second*time_seconds # define number of frames
+        n_frames = int(np.round(self.frames_per_second*time_seconds)) # define number of frames
         event.clearEvents() # clear event cache
         self.window.logOnFlip(level=logging.EXP, msg='%s onset' % label) # log onset stimuli
         self.window.callOnFlip(self.timer.reset)
@@ -88,7 +88,7 @@ class Routine(object):
              return np.nan, time_seconds
 
     def wait_for_time_limit_first_key(self, components, valid_keys, time_seconds, label):
-        n_frames = self.frames_per_second*time_seconds # define number of frames
+        n_frames = int(np.round(self.frames_per_second*time_seconds)) # define number of frames
         event.clearEvents() # clear event cache
         self.window.logOnFlip(level=logging.EXP, msg='%s onset' % label) # log onset stimuli
         self.window.callOnFlip(self.timer.reset)
