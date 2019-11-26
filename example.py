@@ -15,7 +15,6 @@ full_screen = False
 background_color = '#bfbfbf'
 
 # trial settings
-response_deadline = 5
 choice_keys = ['q', 'p']
 escape_key = 'escape'
 choice_time_limit = 5
