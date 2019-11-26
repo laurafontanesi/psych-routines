@@ -1,0 +1,129 @@
+7.0413 	WARNING 	Monitor specification not found. Creating a temporary one...
+7.6321 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='#bfbfbf', colorSpace='hex', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1138d4910>, name='window1', pos=[440, 225], screen=0, size=array([800, 600]), stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.7203 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'50% chance of winning CHF 600', units='pix', win=Window(...), wrapWidth=500)
+7.7250 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'Hello World', units='pix', win=Window(...), wrapWidth=500)
+7.7272 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'+', units='pix', win=Window(...), wrapWidth=500)
+7.7478 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 1'
+7.7478 	EXP 	fixation_cross onset
+8.7653 	EXP 	fixation_cross offset
+8.7653 	EXP 	gamble_choice onset
+9.8205 	DATA 	Keypress: p
+9.8479 	EXP 	gamble_choice offset
+9.8479 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 30'
+9.8479 	EXP 	fixation_cross onset
+10.8489 	EXP 	fixation_cross offset
+10.8489 	EXP 	gamble_choice onset
+11.9830 	DATA 	Keypress: q
+11.9983 	EXP 	gamble_choice offset
+11.9983 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 60'
+11.9983 	EXP 	fixation_cross onset
+12.9989 	EXP 	fixation_cross offset
+12.9989 	EXP 	gamble_choice onset
+14.5680 	DATA 	Keypress: p
+14.5988 	EXP 	gamble_choice offset
+14.5988 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 90'
+14.5988 	EXP 	fixation_cross onset
+15.5988 	EXP 	fixation_cross offset
+15.5988 	EXP 	gamble_choice onset
+16.6189 	DATA 	Keypress: q
+16.6484 	EXP 	gamble_choice offset
+16.6484 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 120'
+16.6484 	EXP 	fixation_cross onset
+17.6488 	EXP 	fixation_cross offset
+17.6488 	EXP 	gamble_choice onset
+18.5335 	DATA 	Keypress: p
+18.5483 	EXP 	gamble_choice offset
+18.5483 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 150'
+18.5483 	EXP 	fixation_cross onset
+19.5483 	EXP 	fixation_cross offset
+19.5483 	EXP 	gamble_choice onset
+24.5651 	EXP 	gamble_choice offset
+24.5651 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 180'
+24.5651 	EXP 	fixation_cross onset
+25.5652 	EXP 	fixation_cross offset
+25.5652 	EXP 	gamble_choice onset
+26.0181 	DATA 	Keypress: q
+26.0484 	EXP 	gamble_choice offset
+26.0484 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 210'
+26.0484 	EXP 	fixation_cross onset
+27.0486 	EXP 	fixation_cross offset
+27.0486 	EXP 	gamble_choice onset
+28.1345 	DATA 	Keypress: p
+28.1651 	EXP 	gamble_choice offset
+28.1651 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 240'
+28.1651 	EXP 	fixation_cross onset
+29.1654 	EXP 	fixation_cross offset
+29.1654 	EXP 	gamble_choice onset
+30.1011 	DATA 	Keypress: q
+30.1321 	EXP 	gamble_choice offset
+30.1321 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 270'
+30.1321 	EXP 	fixation_cross onset
+31.1320 	EXP 	fixation_cross offset
+31.1320 	EXP 	gamble_choice onset
+34.8340 	DATA 	Keypress: p
+34.8480 	EXP 	gamble_choice offset
+34.8480 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 300'
+34.8480 	EXP 	fixation_cross onset
+35.8482 	EXP 	fixation_cross offset
+35.8482 	EXP 	gamble_choice onset
+40.8482 	EXP 	gamble_choice offset
+40.8482 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 330'
+40.8482 	EXP 	fixation_cross onset
+41.8485 	EXP 	fixation_cross offset
+41.8485 	EXP 	gamble_choice onset
+42.2376 	DATA 	Keypress: p
+42.2651 	EXP 	gamble_choice offset
+42.2651 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 360'
+42.2651 	EXP 	fixation_cross onset
+43.2654 	EXP 	fixation_cross offset
+43.2654 	EXP 	gamble_choice onset
+43.4339 	DATA 	Keypress: p
+43.4481 	EXP 	gamble_choice offset
+43.4481 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 390'
+43.4481 	EXP 	fixation_cross onset
+44.4488 	EXP 	fixation_cross offset
+44.4488 	EXP 	gamble_choice onset
+44.8009 	DATA 	Keypress: q
+44.8319 	EXP 	gamble_choice offset
+44.8319 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 420'
+44.8319 	EXP 	fixation_cross onset
+45.8318 	EXP 	fixation_cross offset
+45.8318 	EXP 	gamble_choice onset
+46.0676 	DATA 	Keypress: q
+46.0982 	EXP 	gamble_choice offset
+46.0982 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 450'
+46.0982 	EXP 	fixation_cross onset
+47.0983 	EXP 	fixation_cross offset
+47.0983 	EXP 	gamble_choice onset
+47.2671 	DATA 	Keypress: p
+47.2982 	EXP 	gamble_choice offset
+47.2982 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 480'
+47.2982 	EXP 	fixation_cross onset
+48.2984 	EXP 	fixation_cross offset
+48.2984 	EXP 	gamble_choice onset
+48.3674 	DATA 	Keypress: p
+48.3981 	EXP 	gamble_choice offset
+48.3981 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 510'
+48.3981 	EXP 	fixation_cross onset
+49.3981 	EXP 	fixation_cross offset
+49.3981 	EXP 	gamble_choice onset
+49.5157 	DATA 	Keypress: p
+49.5312 	EXP 	gamble_choice offset
+49.5312 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 540'
+49.5312 	EXP 	fixation_cross onset
+50.5319 	EXP 	fixation_cross offset
+50.5319 	EXP 	gamble_choice onset
+50.6005 	DATA 	Keypress: p
+50.6314 	EXP 	gamble_choice offset
+50.6314 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 570'
+50.6314 	EXP 	fixation_cross onset
+51.6318 	EXP 	fixation_cross offset
+51.6318 	EXP 	gamble_choice onset
+51.7339 	DATA 	Keypress: p
+51.7650 	EXP 	gamble_choice offset
+51.7650 	EXP 	unnamed TextStim: text = 'a sure gain of  CHF 600'
+51.7650 	EXP 	fixation_cross onset
+52.7650 	EXP 	fixation_cross offset
+52.7650 	EXP 	gamble_choice onset
+53.0340 	DATA 	Keypress: p
+53.0423 	EXP 	window1: mouseVisible = True
