@@ -1,0 +1,46 @@
+4.5699 	WARNING 	Monitor specification not found. Creating a temporary one...
+5.2008 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='#bfbfbf', colorSpace='hex', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x113318990>, name='window1', pos=[1104, 546], screen=0, size=array([800, 600]), stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.2865 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'Hello World', units='pix', win=Window(...), wrapWidth=500)
+5.2944 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'10% chance of CHF 3000', units='pix', win=Window(...), wrapWidth=500)
+5.3155 	EXP 	unnamed TextStim: text = '100% chance of CHF 1500'
+5.3155 	EXP 	fixation_cross onset
+5.8155 	EXP 	fixation_cross offset
+5.8155 	EXP 	gamble_choice onset
+10.1874 	DATA 	Keypress: a
+10.2154 	EXP 	gamble_choice offset
+10.2154 	EXP 	unnamed TextStim: text = '100% chance of CHF 750'
+10.2154 	EXP 	fixation_cross onset
+10.7160 	EXP 	fixation_cross offset
+10.7160 	EXP 	gamble_choice onset
+13.5892 	DATA 	Keypress: a
+13.6151 	EXP 	gamble_choice offset
+13.6151 	EXP 	unnamed TextStim: text = '100% chance of CHF 375'
+13.6151 	EXP 	fixation_cross onset
+14.1157 	EXP 	fixation_cross offset
+14.1157 	EXP 	gamble_choice onset
+15.4677 	DATA 	Keypress: a
+15.4988 	EXP 	gamble_choice offset
+15.4988 	EXP 	unnamed TextStim: text = '100% chance of CHF 188'
+15.4988 	EXP 	fixation_cross onset
+15.9988 	EXP 	fixation_cross offset
+15.9988 	EXP 	gamble_choice onset
+17.1517 	DATA 	Keypress: l
+17.1821 	EXP 	gamble_choice offset
+17.1821 	EXP 	unnamed TextStim: text = '100% chance of CHF 282'
+17.1821 	EXP 	fixation_cross onset
+17.6827 	EXP 	fixation_cross offset
+17.6827 	EXP 	gamble_choice onset
+19.9562 	DATA 	Keypress: l
+19.9818 	EXP 	gamble_choice offset
+19.9818 	EXP 	unnamed TextStim: text = '100% chance of CHF 328'
+19.9818 	EXP 	fixation_cross onset
+20.4814 	EXP 	fixation_cross offset
+20.4814 	EXP 	gamble_choice onset
+21.3688 	DATA 	Keypress: a
+21.3996 	EXP 	gamble_choice offset
+21.3996 	EXP 	unnamed TextStim: text = '100% chance of CHF 305'
+21.3996 	EXP 	fixation_cross onset
+21.8990 	EXP 	fixation_cross offset
+21.8990 	EXP 	gamble_choice onset
+23.1575 	DATA 	Keypress: a
+23.1655 	EXP 	window1: mouseVisible = True

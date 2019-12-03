@@ -1,0 +1,8 @@
+,choice,current,difference,lower,rt,trial,upper,participant,gender,age,hand,expName,date
+0,a,1500.0,3000.0,0.0,4.37185502052,0.0,3000.0,1,female,25,right,example_2,2019_Nov_26_1653
+1,a,750.0,1500.0,0.0,2.87320685387,1.0,1500.0,1,female,25,right,example_2,2019_Nov_26_1653
+2,a,375.0,750.0,0.0,1.35197019577,2.0,750.0,1,female,25,right,example_2,2019_Nov_26_1653
+3,l,188.0,375.0,0.0,1.15282011032,3.0,375.0,1,female,25,right,example_2,2019_Nov_26_1653
+4,l,282.0,187.0,188.0,2.27350711823,4.0,375.0,1,female,25,right,example_2,2019_Nov_26_1653
+5,a,328.0,93.0,282.0,0.887450933456,5.0,375.0,1,female,25,right,example_2,2019_Nov_26_1653
+6,a,305.0,46.0,282.0,1.25847315788,6.0,328.0,1,female,25,right,example_2,2019_Nov_26_1653
