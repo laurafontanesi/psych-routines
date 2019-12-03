@@ -7,6 +7,8 @@ import os
 
 from routines import Routine
 
+# Code for the choice experiment of Kusev et al (2009) https://doi.org/10.1037/a0017039
+
 #general settings
 expName = 'example_1'
 screen_size = [800, 600]
