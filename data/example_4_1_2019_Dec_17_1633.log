@@ -1,0 +1,227 @@
+5.9374 	WARNING 	Monitor specification not found. Creating a temporary one...
+6.9135 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='#eeeeee', colorSpace='hex', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x113198990>, name='window1', pos=[1104, 546], screen=0, size=array([800, 600]), stereo=False, units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9949 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'Hello World', units='pix', win=Window(...), wrapWidth=500)
+6.9985 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 200.,    0.]), rgb=array([ 0.,  0.,  0.]), text=u'Hello World', units='pix', win=Window(...), wrapWidth=500)
+7.0014 	EXP 	Created unnamed ImageStim = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=None, interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([-200.,    0.]), size=array([ 100.,  100.]), texRes=128, units='pix', win=Window(...))
+7.0024 	EXP 	Created unnamed ImageStim = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=None, interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 200.,    0.]), size=array([ 100.,  100.]), texRes=128, units='pix', win=Window(...))
+7.0051 	EXP 	Created unnamed TextStim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20, italic=False, name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'+', units='pix', win=Window(...), wrapWidth=500)
+7.1455 	EXP 	unnamed TextStim: text = '31'
+7.1455 	EXP 	unnamed TextStim: text = '45'
+7.1455 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+7.1455 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+7.1455 	EXP 	fixation_cross onset
+8.1448 	EXP 	fixation_cross offset
+8.1448 	EXP 	gamble_choice onset
+9.9135 	DATA 	Keypress: q
+9.9276 	EXP 	gamble_choice offset
+9.9276 	EXP 	feedback onset
+11.9780 	EXP 	feedback offset
+11.9780 	EXP 	unnamed TextStim: text = '34'
+11.9780 	EXP 	unnamed TextStim: text = '48'
+11.9780 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+11.9780 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+11.9780 	EXP 	fixation_cross onset
+12.9782 	EXP 	fixation_cross offset
+12.9782 	EXP 	gamble_choice onset
+14.0464 	DATA 	Keypress: p
+14.0613 	EXP 	gamble_choice offset
+14.0613 	EXP 	feedback onset
+16.1112 	EXP 	feedback offset
+16.1112 	EXP 	unnamed TextStim: text = '36'
+16.1112 	EXP 	unnamed TextStim: text = '47'
+16.1112 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+16.1112 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+16.1112 	EXP 	fixation_cross onset
+17.1111 	EXP 	fixation_cross offset
+17.1111 	EXP 	gamble_choice onset
+18.3479 	DATA 	Keypress: p
+18.3608 	EXP 	gamble_choice offset
+18.3608 	EXP 	feedback onset
+20.4106 	EXP 	feedback offset
+20.4106 	EXP 	unnamed TextStim: text = '37'
+20.4106 	EXP 	unnamed TextStim: text = '40'
+20.4106 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+20.4106 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+20.4106 	EXP 	fixation_cross onset
+21.4107 	EXP 	fixation_cross offset
+21.4107 	EXP 	gamble_choice onset
+22.0451 	DATA 	Keypress: p
+22.0607 	EXP 	gamble_choice offset
+22.0607 	EXP 	feedback onset
+24.1110 	EXP 	feedback offset
+24.1110 	EXP 	unnamed TextStim: text = '40'
+24.1110 	EXP 	unnamed TextStim: text = '37'
+24.1110 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+24.1110 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+24.1110 	EXP 	fixation_cross onset
+25.1106 	EXP 	fixation_cross offset
+25.1106 	EXP 	gamble_choice onset
+25.7166 	DATA 	Keypress: p
+25.7437 	EXP 	gamble_choice offset
+25.7437 	EXP 	feedback onset
+27.7939 	EXP 	feedback offset
+27.7939 	EXP 	unnamed TextStim: text = '60'
+27.7939 	EXP 	unnamed TextStim: text = '55'
+27.7939 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+27.7939 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+27.7939 	EXP 	fixation_cross onset
+28.7942 	EXP 	fixation_cross offset
+28.7942 	EXP 	gamble_choice onset
+30.0619 	DATA 	Keypress: q
+30.0765 	EXP 	gamble_choice offset
+30.0765 	EXP 	feedback onset
+32.1272 	EXP 	feedback offset
+32.1272 	EXP 	unnamed TextStim: text = '50'
+32.1272 	EXP 	unnamed TextStim: text = '41'
+32.1272 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+32.1272 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+32.1272 	EXP 	fixation_cross onset
+33.1273 	EXP 	fixation_cross offset
+33.1273 	EXP 	gamble_choice onset
+34.0331 	DATA 	Keypress: q
+34.0435 	EXP 	gamble_choice offset
+34.0435 	EXP 	feedback onset
+36.0933 	EXP 	feedback offset
+36.0933 	EXP 	unnamed TextStim: text = '42'
+36.0933 	EXP 	unnamed TextStim: text = '44'
+36.0933 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+36.0933 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+36.0933 	EXP 	fixation_cross onset
+37.0936 	EXP 	fixation_cross offset
+37.0936 	EXP 	gamble_choice onset
+37.8946 	DATA 	Keypress: p
+37.9097 	EXP 	gamble_choice offset
+37.9097 	EXP 	feedback onset
+39.9762 	EXP 	feedback offset
+39.9762 	EXP 	unnamed TextStim: text = '50'
+39.9762 	EXP 	unnamed TextStim: text = '52'
+39.9762 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+39.9762 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+39.9762 	EXP 	fixation_cross onset
+40.9835 	EXP 	fixation_cross offset
+40.9835 	EXP 	gamble_choice onset
+41.7606 	DATA 	Keypress: q
+41.7761 	EXP 	gamble_choice offset
+41.7761 	EXP 	feedback onset
+43.8264 	EXP 	feedback offset
+43.8264 	EXP 	unnamed TextStim: text = '53'
+43.8264 	EXP 	unnamed TextStim: text = '52'
+43.8264 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+43.8264 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+43.8264 	EXP 	fixation_cross onset
+44.8264 	EXP 	fixation_cross offset
+44.8264 	EXP 	gamble_choice onset
+45.3130 	DATA 	Keypress: q
+45.3259 	EXP 	gamble_choice offset
+45.3259 	EXP 	feedback onset
+47.3763 	EXP 	feedback offset
+47.3763 	EXP 	unnamed TextStim: text = '40'
+47.3763 	EXP 	unnamed TextStim: text = '54'
+47.3763 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+47.3763 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+47.3763 	EXP 	fixation_cross onset
+48.3761 	EXP 	fixation_cross offset
+48.3761 	EXP 	gamble_choice onset
+49.7274 	DATA 	Keypress: p
+49.7427 	EXP 	gamble_choice offset
+49.7427 	EXP 	feedback onset
+51.7923 	EXP 	feedback offset
+51.7923 	EXP 	unnamed TextStim: text = '55'
+51.7923 	EXP 	unnamed TextStim: text = '40'
+51.7923 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+51.7923 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+51.7923 	EXP 	fixation_cross onset
+52.7924 	EXP 	fixation_cross offset
+52.7924 	EXP 	gamble_choice onset
+54.0283 	DATA 	Keypress: q
+54.0425 	EXP 	gamble_choice offset
+54.0425 	EXP 	feedback onset
+56.0922 	EXP 	feedback offset
+56.0922 	EXP 	unnamed TextStim: text = '50'
+56.0922 	EXP 	unnamed TextStim: text = '38'
+56.0922 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+56.0922 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+56.0922 	EXP 	fixation_cross onset
+57.0925 	EXP 	fixation_cross offset
+57.0925 	EXP 	gamble_choice onset
+57.5643 	DATA 	Keypress: q
+57.5756 	EXP 	gamble_choice offset
+57.5756 	EXP 	feedback onset
+59.6259 	EXP 	feedback offset
+59.6259 	EXP 	unnamed TextStim: text = '35'
+59.6259 	EXP 	unnamed TextStim: text = '42'
+59.6259 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+59.6259 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+59.6259 	EXP 	fixation_cross onset
+60.6251 	EXP 	fixation_cross offset
+60.6251 	EXP 	gamble_choice onset
+61.6263 	DATA 	Keypress: p
+61.6417 	EXP 	gamble_choice offset
+61.6417 	EXP 	feedback onset
+63.6919 	EXP 	feedback offset
+63.6919 	EXP 	unnamed TextStim: text = '32'
+63.6919 	EXP 	unnamed TextStim: text = '58'
+63.6919 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+63.6919 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+63.6919 	EXP 	fixation_cross onset
+64.6920 	EXP 	fixation_cross offset
+64.6920 	EXP 	gamble_choice onset
+65.5784 	DATA 	Keypress: p
+65.5916 	EXP 	gamble_choice offset
+65.5916 	EXP 	feedback onset
+67.6415 	EXP 	feedback offset
+67.6415 	EXP 	unnamed TextStim: text = '55'
+67.6415 	EXP 	unnamed TextStim: text = '44'
+67.6415 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+67.6415 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+67.6415 	EXP 	fixation_cross onset
+68.6417 	EXP 	fixation_cross offset
+68.6417 	EXP 	gamble_choice onset
+69.6099 	DATA 	Keypress: q
+69.6250 	EXP 	gamble_choice offset
+69.6250 	EXP 	feedback onset
+71.6913 	EXP 	feedback offset
+71.6913 	EXP 	unnamed TextStim: text = '34'
+71.6913 	EXP 	unnamed TextStim: text = '37'
+71.6913 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/A.png'
+71.6913 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+71.6913 	EXP 	fixation_cross onset
+72.6915 	EXP 	fixation_cross offset
+72.6915 	EXP 	gamble_choice onset
+73.2929 	DATA 	Keypress: p
+73.3079 	EXP 	gamble_choice offset
+73.3079 	EXP 	feedback onset
+75.3746 	EXP 	feedback offset
+75.3746 	EXP 	unnamed TextStim: text = '49'
+75.3746 	EXP 	unnamed TextStim: text = '50'
+75.3746 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+75.3746 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+75.3746 	EXP 	fixation_cross onset
+76.3746 	EXP 	fixation_cross offset
+76.3746 	EXP 	gamble_choice onset
+78.0790 	DATA 	Keypress: p
+78.0911 	EXP 	gamble_choice offset
+78.0911 	EXP 	feedback onset
+80.1406 	EXP 	feedback offset
+80.1406 	EXP 	unnamed TextStim: text = '53'
+80.1406 	EXP 	unnamed TextStim: text = '33'
+80.1406 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+80.1406 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/B.png'
+80.1406 	EXP 	fixation_cross onset
+81.1408 	EXP 	fixation_cross offset
+81.1408 	EXP 	gamble_choice onset
+82.5254 	DATA 	Keypress: q
+82.5408 	EXP 	gamble_choice offset
+82.5408 	EXP 	feedback onset
+84.5910 	EXP 	feedback offset
+84.5910 	EXP 	unnamed TextStim: text = '59'
+84.5910 	EXP 	unnamed TextStim: text = '52'
+84.5910 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/D.png'
+84.5910 	EXP 	unnamed ImageStim: image = '/Users/laurafontanesi/git/psych-routines/stimuli/example_4/C.png'
+84.5910 	EXP 	fixation_cross onset
+85.5904 	EXP 	fixation_cross offset
+85.5904 	EXP 	gamble_choice onset
+86.3952 	DATA 	Keypress: q
+86.4072 	EXP 	gamble_choice offset
+86.4072 	EXP 	feedback onset
+88.3933 	EXP 	window1: mouseVisible = True
