@@ -9,7 +9,7 @@ To initialize the **Routine** class you only need to specify the window, the num
 trial_routine = Routine(window=mywin, frames_per_second=frames_per_second, escape_key=escape_key)
 ```
 
-It can then be called to time and record responses from different events in the same trial. For example, if the first event is a fixation cross, and the second is a choice between the two options.
+It can then be called to time and record responses from different events in the same trial. For example, when the first event is a fixation cross, and the second is a choice between the two options:
 
 ```python
 # first event
